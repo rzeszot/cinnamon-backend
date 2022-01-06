@@ -1,0 +1,580 @@
+[
+  {
+    "id": "cinema-city:cinema:1088",
+    "name": "Bielsko-Biała",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/bielsko-biala",
+      "booking": "https://s8.cinema-city.pl/S_PL_1088?key=PLBielskoBialaPOW"
+    },
+    "address": [
+      "ul. Leszczyńska 20",
+      "Bielsko-Biała",
+      "43-300"
+    ],
+    "location": {
+      "latitude": 49.8026,
+      "longitude": 19.051352
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1086",
+    "name": "Bydgoszcz",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/bydgoszcz",
+      "booking": "https://s8.cinema-city.pl/S_PL_1086?key=PLBydgoszczPOW"
+    },
+    "address": [
+      "ul. Jagiellońska 39-47",
+      "Bydgoszcz",
+      "85-097"
+    ],
+    "location": {
+      "latitude": 53.125305,
+      "longitude": 18.01894
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1092",
+    "name": "Bytom",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/bytom",
+      "booking": "https://s8.cinema-city.pl/S_PL_1092?key=PLBytomPOW"
+    },
+    "address": [
+      "pl. T. Kościuszki 1",
+      "Bytom",
+      "41-902"
+    ],
+    "location": {
+      "latitude": 50.347607,
+      "longitude": 18.918924
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1098",
+    "name": "Cieszyn",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/cieszyn",
+      "booking": "https://s8.cinema-city.pl/S_PL_1098?key=PLCieszynPOW"
+    },
+    "address": [
+      "ul. Wojciecha Korfantego 23",
+      "Cieszyn",
+      "43-400"
+    ],
+    "location": {
+      "latitude": 49.749653,
+      "longitude": 18.637823
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1089",
+    "name": "Częstochowa - Galeria Jurajska",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/jurajska",
+      "booking": "https://s8.cinema-city.pl/S_PL_1089?key=PLJurajskaPOW"
+    },
+    "address": [
+      "al. Wojska Polskiego 207",
+      "Częstochowa",
+      "42-200"
+    ],
+    "location": {
+      "latitude": 50.80704,
+      "longitude": 19.132248
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1075",
+    "name": "Częstochowa - Wolność",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/wolnosc",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1075?key=PLCzestochowaPOW"
+    },
+    "address": [
+      "al. Kościuszki 5",
+      "Częstochowa",
+      "42-200"
+    ],
+    "location": {
+      "latitude": 50.813187,
+      "longitude": 19.117859
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1085",
+    "name": "Gliwice",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/gliwice",
+      "booking": "https://s8.cinema-city.pl/S_PL_1085?key=PLGliwicePOW"
+    },
+    "address": [
+      "ul. Lipowa 1",
+      "Gliwice",
+      "44-100"
+    ],
+    "location": {
+      "latitude": 50.300583,
+      "longitude": 18.681223
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1065",
+    "name": "Katowice - Punkt 44",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/punkt44",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1065?key=PLKatowicePOW"
+    },
+    "address": [
+      "ul. Gliwicka 44",
+      "Katowice",
+      "40-853"
+    ],
+    "location": {
+      "latitude": 50.26252,
+      "longitude": 19.00602
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1079",
+    "name": "Katowice - Silesia",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/silesia",
+      "booking": "https://s8.cinema-city.pl/S_PL_1079?key=PLSilesiaPOW"
+    },
+    "address": [
+      "ul. Chorzowska 107",
+      "Katowice",
+      "40-101"
+    ],
+    "location": {
+      "latitude": 50.270752,
+      "longitude": 19.002821
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1090",
+    "name": "Kraków - Bonarka",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/bonarka",
+      "booking": "https://s8.cinema-city.pl/S_PL_1090?key=PLBonarkaPOW"
+    },
+    "address": [
+      "ul. Kamieńskiego 11",
+      "Kraków",
+      "30-644"
+    ],
+    "location": {
+      "latitude": 50.02694,
+      "longitude": 19.94972
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1076",
+    "name": "Kraków - Galeria Kazimierz",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/kazimierz",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1076?key=PLKrakowKazimierzPOW"
+    },
+    "address": [
+      "ul. Podgórska 34",
+      "Kraków",
+      "31-536"
+    ],
+    "location": {
+      "latitude": 50.05303,
+      "longitude": 19.956566
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1064",
+    "name": "Kraków - Zakopianka",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/zakopianka",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1064?key=PLZakopiankaPOW"
+    },
+    "address": [
+      "ul. Zakopiańska 62",
+      "Kraków",
+      "30-418"
+    ],
+    "location": {
+      "latitude": 50.01654,
+      "longitude": 19.930508
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1094",
+    "name": "Lublin - Felicity",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/felicity",
+      "booking": "https://s8.cinema-city.pl/S_PL_1094?key=PLFelicityPOW"
+    },
+    "address": [
+      "Al. Wincentego Witosa 32",
+      "Lublin",
+      "20-315"
+    ],
+    "location": {
+      "latitude": 51.231422,
+      "longitude": 22.613071
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1084",
+    "name": "Lublin - Plaza",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/lublinplaza",
+      "booking": "https://s8.cinema-city.pl/S_PL_1084?key=PLLublinPOW"
+    },
+    "address": [
+      "ul. Lipowa 13",
+      "Lublin",
+      "20-020"
+    ],
+    "location": {
+      "latitude": 51.245033,
+      "longitude": 22.550875
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1080",
+    "name": "Łódź Manufaktura",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/manufaktura",
+      "booking": "https://s8.cinema-city.pl/S_PL_1080?key=PLLodzPOW"
+    },
+    "address": [
+      "ul. Drewnowska 58",
+      "Łódź",
+      "91-002"
+    ],
+    "location": {
+      "latitude": 51.780827,
+      "longitude": 19.448492
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1081",
+    "name": "Poznań - Kinepolis",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/kinepolis",
+      "booking": "https://s8.cinema-city.pl/S_PL_1081?key=PLKinepolisPOW"
+    },
+    "address": [
+      "ul. Bolesława Krzywoustego 72",
+      "Poznań",
+      "61-144"
+    ],
+    "location": {
+      "latitude": 52.373806,
+      "longitude": 16.980959
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1078",
+    "name": "Poznań - Plaza",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/poznanplaza",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1078?key=PLPoznanPOW"
+    },
+    "address": [
+      "ul. K. Drużbickiego 2",
+      "Poznań",
+      "61-693"
+    ],
+    "location": {
+      "latitude": 52.44197,
+      "longitude": 16.918924
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1062",
+    "name": "Ruda Śląska",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/rudaslaska",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1062?key=PLRudaPOW"
+    },
+    "address": [
+      "ul. 1 Maja 310",
+      "Ruda Śląska",
+      "41-710"
+    ],
+    "location": {
+      "latitude": 50.275566,
+      "longitude": 18.866491
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1082",
+    "name": "Rybnik",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/rybnik",
+      "booking": "https://s8.cinema-city.pl/S_PL_1082?key=PLRybnikPOW"
+    },
+    "address": [
+      "ul. Raciborska 16",
+      "Rybnik",
+      "44-200"
+    ],
+    "location": {
+      "latitude": 50.096584,
+      "longitude": 18.53775
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1083",
+    "name": "Sosnowiec",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/sosnowiec",
+      "booking": "https://s8.cinema-city.pl/S_PL_1083?key=PLSosnowiecPOW"
+    },
+    "address": [
+      "ul. Sienkiewicza 2",
+      "Sosnowiec",
+      "41-200"
+    ],
+    "location": {
+      "latitude": 50.275215,
+      "longitude": 19.126959
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1095",
+    "name": "Starogard Gdański",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/starogard",
+      "booking": "https://s8.cinema-city.pl/S_PL_1095?key=PLStarogardPOW"
+    },
+    "address": [
+      "ul. Pomorska 7",
+      "Starogard Gdański",
+      "83-200"
+    ],
+    "location": {
+      "latitude": 53.964165,
+      "longitude": 18.529493
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1077",
+    "name": "Toruń - Czerwona Droga",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/czerwonadroga",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1077?key=PLTorunPOW"
+    },
+    "address": [
+      "ul. Czerwona Droga 1-6",
+      "Toruń",
+      "87–100"
+    ],
+    "location": {
+      "latitude": 53.01551,
+      "longitude": 18.600689
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1093",
+    "name": "Toruń - Plaza",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/torunplaza",
+      "booking": "https://s8.cinema-city.pl/S_PL_1093?key=PLTorunPlazaPOW"
+    },
+    "address": [
+      "ul. Broniewskiego 90",
+      "Toruń",
+      "87-100"
+    ],
+    "location": {
+      "latitude": 53.015995,
+      "longitude": 18.561178
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1091",
+    "name": "Wałbrzych",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/walbrzych",
+      "booking": "https://s8.cinema-city.pl/S_PL_1091?key=PLWalbrzychPOW"
+    },
+    "address": [
+      "ul. 1 Maja 64",
+      "Wałbrzych",
+      "58–300"
+    ],
+    "location": {
+      "latitude": 50.767063,
+      "longitude": 16.265245
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1074",
+    "name": "Warszawa - Arkadia",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/arkadia",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1074?key=PLArkadiaPOW"
+    },
+    "address": [
+      "al. Jana Pawła II 82",
+      "Warszawa",
+      "00-175"
+    ],
+    "location": {
+      "latitude": 52.257217,
+      "longitude": 20.984465
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1061",
+    "name": "Warszawa - Bemowo",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/bemowo",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1061?key=PLBemowoPOW"
+    },
+    "address": [
+      "ul. Powstańców Śląskich 126a",
+      "Warszawa",
+      "01-466"
+    ],
+    "location": {
+      "latitude": 52.26571,
+      "longitude": 20.932743
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1096",
+    "name": "Warszawa - Białołęka Galeria Północna",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/galeriapolnocna",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1096?key=PLBialolekaPOW"
+    },
+    "address": [
+      "ul. Światowida 17",
+      "Warszawa",
+      "03-144"
+    ],
+    "location": {
+      "latitude": 52.318344,
+      "longitude": 20.964226
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1070",
+    "name": "Warszawa - Galeria Mokotów",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/mokotow",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1070?key=PLMokotowPOW"
+    },
+    "address": [
+      "ul. Wołoska 12",
+      "Warszawa",
+      "02-675"
+    ],
+    "location": {
+      "latitude": 52.17884,
+      "longitude": 21.00342
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1069",
+    "name": "Warszawa - Janki",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/janki",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1069?key=PLJankiPOW"
+    },
+    "address": [
+      "ul. Mszczonowska 3C",
+      "Janki",
+      "05-090"
+    ],
+    "location": {
+      "latitude": 52.135708,
+      "longitude": 20.892134
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1068",
+    "name": "Warszawa - Promenada",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/promenada",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1068?key=PLPromenadaPOW"
+    },
+    "address": [
+      "ul. Ostrobramska 75c",
+      "Warszawa",
+      "04-175"
+    ],
+    "location": {
+      "latitude": 52.2316,
+      "longitude": 21.106195
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1060",
+    "name": "Warszawa - Sadyba",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/sadyba",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1060?key=PLSadybaPOW"
+    },
+    "address": [
+      "ul. Powsińska 31",
+      "Warszawa",
+      "02-903"
+    ],
+    "location": {
+      "latitude": 52.187485,
+      "longitude": 21.061102
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1067",
+    "name": "Wrocław - Korona",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/korona",
+      "booking": "https://sr2.cinema-city.pl/S_PL_1067?key=PLKoronaPOW"
+    },
+    "address": [
+      "ul. Krzywoustego 126 C",
+      "Wrocław",
+      "51-421"
+    ],
+    "location": {
+      "latitude": 51.142323,
+      "longitude": 17.08925
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1097",
+    "name": "Wrocław - Wroclavia",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/wroclavia",
+      "booking": "https://s8.cinema-city.pl/S_PL_1097?key=PLWroclaviaPOW"
+    },
+    "address": [
+      "Sucha 1",
+      "Wrocław",
+      "50-086"
+    ],
+    "location": {
+      "latitude": 51.096714,
+      "longitude": 17.034151
+    }
+  },
+  {
+    "id": "cinema-city:cinema:1087",
+    "name": "Zielona Góra",
+    "links": {
+      "website": "https://www.cinema-city.pl/kina/zielonagora",
+      "booking": "https://s8.cinema-city.pl/S_PL_1087?key=PLZielonaGoraPOW"
+    },
+    "address": [
+      "ul. Wrocławska 17",
+      "Zielona Góra",
+      "65-427"
+    ],
+    "location": {
+      "latitude": 51.936207,
+      "longitude": 15.511678
+    }
+  }
+]
