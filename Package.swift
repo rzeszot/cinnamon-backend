@@ -4,6 +4,12 @@ import PackageDescription
 
 let package = Package(
   name: "Cinnamon",
+  dependencies: [
+    .package(
+      name: "SnapshotTesting",
+      url: "https://github.com/pointfreeco/swift-snapshot-testing.git", .upToNextMajor(from: "1.0.0")
+    )
+  ],
   targets: [
     .target(
       name: "App",
@@ -14,11 +20,17 @@ let package = Package(
         .copy("cinemas.json")
       ]
     ),
-    .testTarget(name: "AppTests", dependencies: ["App"]),
+//    .testTarget(name: "AppTests", dependencies: ["App"]),
 
     .target(
       name: "Movies"
     ),
-    .testTarget(name: "MoviesTests", dependencies: ["Movies"])
+    .testTarget(
+      name: "MoviesTests",
+      dependencies: ["Movies", "SnapshotTesting"],
+      resources: [
+        .copy("Application/__Snapshots__")
+      ]
+    )
   ]
 )

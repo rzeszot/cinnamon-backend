@@ -1,3 +1,3 @@
-# ddd-cinema
+# Cinnamon
 
-A description of this package.
+My first attempt to DDD and server-side, inspired by Eric evans book.
