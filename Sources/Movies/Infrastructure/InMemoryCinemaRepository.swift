@@ -1,7 +1,7 @@
 import Foundation
 
 public class InMemoryCinemaRepository: CinemaRepository {
-  private var data: [String: Cinema] = [:]
+  private var data: [Cinema.Identifier: Cinema] = [:]
 
   public init() {
 
