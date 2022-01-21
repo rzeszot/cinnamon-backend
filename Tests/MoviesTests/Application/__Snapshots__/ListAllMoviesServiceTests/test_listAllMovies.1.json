@@ -1,0 +1,14 @@
+{
+  "movies" : [
+    {
+      "duration" : 147,
+      "id" : "movie:1",
+      "title" : "Spider-Man. Bez drogi do domu (2021)"
+    },
+    {
+      "duration" : 148,
+      "id" : "movie:2",
+      "title" : "Matrix Zmartwychwstania (2021)"
+    }
+  ]
+}
