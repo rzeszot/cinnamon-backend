@@ -14,4 +14,5 @@ public class InMemoryRoomsRepository: RoomsRepository {
   public func find(in cinema: Cinema.Identifier) -> [Room] {
     Array(data[cinema] ?? []).sorted { $0.id < $1.id }
   }
+
 }
