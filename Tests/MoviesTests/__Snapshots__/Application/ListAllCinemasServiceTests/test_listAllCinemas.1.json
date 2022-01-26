@@ -1,0 +1,16 @@
+{
+  "items" : [
+    {
+      "id" : "cinema:1",
+      "name" : "Kino #1"
+    },
+    {
+      "id" : "cinema:2",
+      "name" : "Kino #2"
+    },
+    {
+      "id" : "cinema:3",
+      "name" : "Kino #3"
+    }
+  ]
+}

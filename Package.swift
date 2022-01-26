@@ -29,8 +29,7 @@ let package = Package(
       name: "MoviesTests",
       dependencies: ["Movies", "SnapshotTesting"],
       resources: [
-//        .copy("Application/__Snapshots__"),
-//        .copy("Infrastructure/__Snapshots__")
+        .copy("__Snapshots__")
       ]
     )
   ]

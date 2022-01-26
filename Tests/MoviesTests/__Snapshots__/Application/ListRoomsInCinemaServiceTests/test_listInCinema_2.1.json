@@ -1,0 +1,13 @@
+{
+  "cinema_id" : "cinema:2",
+  "rooms" : [
+    {
+      "id" : "cinema.2:room.a",
+      "name" : "Room A"
+    },
+    {
+      "id" : "cinema.2:room.b",
+      "name" : "Room B"
+    }
+  ]
+}

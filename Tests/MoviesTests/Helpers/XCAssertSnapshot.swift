@@ -8,24 +8,26 @@ public func XCAssertSnapshot<Value, Format>(
   file: StaticString = #file,
   testName: String = #function,
   line: UInt = #line
-  ) {
+) {
 
   let fileUrl = URL(fileURLWithPath: "\(file)", isDirectory: false)
   let fileName = fileUrl.deletingPathExtension().lastPathComponent
   let layer = fileUrl.deletingLastPathComponent().lastPathComponent
 
-  let snapshotDirectoryUrl = fileUrl
-      .deletingLastPathComponent()
-      .deletingLastPathComponent()
-      .appendingPathComponent("__Snapshots__", isDirectory: true)
-      .appendingPathComponent(layer, isDirectory: true)
-      .appendingPathComponent(fileName, isDirectory: true)
+  let snapshotDirectoryUrlString = fileUrl
+    .deletingLastPathComponent()
+    .deletingLastPathComponent()
+    .appendingPathComponent("__Snapshots__", isDirectory: true)
+    .appendingPathComponent(layer, isDirectory: true)
+    .appendingPathComponent(fileName, isDirectory: true)
+    .absoluteString
+    .replacingOccurrences(of: "file://", with: "")
 
   let failure = verifySnapshot(
     matching: try value(),
     as: snapshotting,
     named: name,
-    snapshotDirectory: snapshotDirectoryUrl.absoluteString,
+    snapshotDirectory: snapshotDirectoryUrlString,
     file: file,
     testName: testName,
     line: line
