@@ -1,10 +1,63 @@
 ▿ 2 elements
   ▿ Movie
+    ▿ attributes: 9 elements
+      ▿ Attribute
+        - code: "2d"
+        - id: "attribute:2d"
+      ▿ Attribute
+        - code: "4dx"
+        - id: "attribute:4dx"
+      ▿ Attribute
+        - code: "action"
+        - id: "attribute:action"
+      ▿ Attribute
+        - code: "sci-fi"
+        - id: "attribute:sci-fi"
+      ▿ Attribute
+        - code: "original-lang-en-us"
+        - id: "attribute:original-lang-en-us"
+      ▿ Attribute
+        - code: "dubbed"
+        - id: "attribute:dubbed"
+      ▿ Attribute
+        - code: "dubbed-lang-pl"
+        - id: "attribute:dubbed-lang-pl"
+      ▿ Attribute
+        - code: "subbed"
+        - id: "attribute:subbed"
+      ▿ Attribute
+        - code: "subbed-lang-pl"
+        - id: "attribute:subbed-lang-pl"
     - duration: 147
     - id: "movie:1"
     - title: "Spider-Man. Bez drogi do domu"
     - year: "2021"
   ▿ Movie
+    ▿ attributes: 8 elements
+      ▿ Attribute
+        - code: "2d"
+        - id: "attribute:2d"
+      ▿ Attribute
+        - code: "action"
+        - id: "attribute:action"
+      ▿ Attribute
+        - code: "sci-fi"
+        - id: "attribute:sci-fi"
+      ▿ Attribute
+        - code: "original-lang-en-us"
+        - id: "attribute:original-lang-en-us"
+      ▿ Attribute
+        - code: "dubbed"
+        - id: "attribute:dubbed"
+      ▿ Attribute
+        - code: "dubbed-lang-pl"
+        - id: "attribute:dubbed-lang-pl"
+      ▿ Attribute
+        - code: "subbed"
+        - id: "attribute:subbed"
+      ▿ Attribute
+        - code: "subbed-lang-pl"
+        - id: "attribute:subbed-lang-pl"
     - duration: 148
     - id: "movie:2"
     - title: "Matrix Zmartwychwstania"

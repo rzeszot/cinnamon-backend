@@ -36,6 +36,7 @@ public struct MovieImportService {
     let title: String
     let duration: UInt
     let year: UInt
+    let attributes: [String]
   }
 }
 
@@ -45,6 +46,6 @@ private extension Movie {
     title = item.title
     duration = item.duration
     year = String(item.year)
+    attributes = item.attributes.map(Attribute.init(code:))
   }
 }
-

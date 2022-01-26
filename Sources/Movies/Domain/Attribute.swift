@@ -20,3 +20,20 @@ extension Attribute: Equatable {
     lhs.id == rhs.id
   }
 }
+
+extension Attribute: ExpressibleByStringLiteral {
+  public init(code: Code) {
+    id = "attribute:" + code
+    self.code = code
+  }
+
+  public init(stringLiteral value: String) {
+    self.init(code: normalize(value))
+  }
+}
+
+private func normalize(_ string: String) -> String {
+  string
+    .lowercased()
+    .replacingOccurrences(of: " ", with: "-")
+}
