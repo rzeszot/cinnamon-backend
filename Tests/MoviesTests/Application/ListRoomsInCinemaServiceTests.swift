@@ -22,13 +22,13 @@ final class ListRoomsInCinemaServiceTests: XCTestCase {
   func test_listInCinema_1() throws {
     let result = sut.list(in: "cinema:1")
 
-    assertSnapshot(matching: result, as: .json)
+    XCAssertSnapshot(matching: result, as: .json)
   }
 
   func test_listInCinema_2() throws {
     let result = sut.list(in: "cinema:2")
 
-    assertSnapshot(matching: result, as: .json)
+    XCAssertSnapshot(matching: result, as: .json)
   }
 
 }

@@ -1,4 +1,0 @@
-▿ 1 element
-  ▿ Room
-    - id: "cinema:1:room:1"
-    - name: "Room A"

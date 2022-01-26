@@ -22,7 +22,7 @@ final class CinemaImportServiceTests: XCTestCase {
   func test_loadFromURL_dataIsValid_savesAllCinemasInTheRepository() throws {
     try sut.load(from: Fixture.cinemas)
 
-    assertSnapshot(matching: repository.all(), as: .dump)
+    XCAssertSnapshot(matching: repository.all(), as: .dump)
   }
 
 }

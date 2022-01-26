@@ -20,7 +20,7 @@ final class InMemoryAttributeRepositoryTests: XCTestCase {
     let attribute = Attribute(id: "attribute:1", code: "2d")
     sut.save(attribute: attribute)
 
-    assertSnapshot(matching: sut.all(), as: .dump)
+    XCAssertSnapshot(matching: sut.all(), as: .dump)
   }
 
   func test_saveAttribute_withAnAttribute_overridesAttribute() {
@@ -30,7 +30,7 @@ final class InMemoryAttributeRepositoryTests: XCTestCase {
     sut.save(attribute: attribute)
 
 
-    assertSnapshot(matching: sut.all(), as: .dump)
+    XCAssertSnapshot(matching: sut.all(), as: .dump)
   }
 
 }

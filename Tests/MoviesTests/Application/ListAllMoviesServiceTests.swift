@@ -22,7 +22,7 @@ final class ListAllMoviesServiceTests: XCTestCase {
   func test_listAllMovies() throws {
     let result = sut.list()
 
-    assertSnapshot(matching: result, as: .json)
+    XCAssertSnapshot(matching: result, as: .json)
   }
 
 }

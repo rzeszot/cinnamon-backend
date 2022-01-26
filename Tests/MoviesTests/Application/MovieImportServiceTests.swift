@@ -22,7 +22,7 @@ final class MovieImportServiceTests: XCTestCase {
   func test_loadFromData_dataIsValid_savesAllMoviesInTheRepository() throws {
     try sut.load(from: Fixture.movies)
 
-    assertSnapshot(matching: repository.all(), as: .dump)
+    XCAssertSnapshot(matching: repository.all(), as: .dump)
   }
 
 }

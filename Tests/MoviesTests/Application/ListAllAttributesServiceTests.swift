@@ -22,7 +22,7 @@ final class ListAllAttributesServiceTests: XCTestCase {
   func test_listAllAttributes() throws {
     let result = sut.list()
 
-    assertSnapshot(matching: result, as: .json)
+    XCAssertSnapshot(matching: result, as: .json)
   }
 
 }
